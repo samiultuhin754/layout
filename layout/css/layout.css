@@ -1,0 +1,137 @@
+.header{
+	min-height: 150px;
+	background-color: #90ee90;
+	font-size: 70px;
+
+}
+.box{
+	overflow: hidden;
+	border: 5px solid black;
+
+}
+.blog{
+	min-height: 400px;
+	background-color: #fa8072;
+	width: 49.9%;
+	float: left;
+	font-size: 50px
+
+
+
+}
+.blog2{
+		min-height: 400px;
+	background-color: #808000;
+	width: 49.9%;
+	float: right;
+	font-size: 50px
+
+}
+.footer{
+	min-height: 150px;
+	background-color: #ffa500;
+	font-size: 70px
+
+}
+.box2{
+	overflow: hidden;
+	border: 5px solid blue;
+
+}
+
+.blog3{
+	min-height: 200px;
+	background-color: red;
+	width: 24.9%;
+	float: right;
+	font-size: 50px
+
+}
+.blog4{
+	min-height: 200px;
+	background-color: yellow;
+	width: 24.9%;
+	float: right;
+	font-size: 50px
+	
+}
+.blog5{
+	min-height: 200px;
+	background-color: green;
+	width: 25%;
+	float: right;
+	font-size: 50px
+	
+
+}
+.blog6{
+	min-height: 200px;
+	background-color: #ff6347;
+	width: 25%;
+	float: right;
+	font-size: 50px
+
+
+	
+
+}
+.footer2{
+	min-height: 150px;
+	background-color: #708090;
+	font-size: 70px
+
+
+}
+
+.box3{
+	overflow: hidden;
+	border: 5px solid #8b0000;
+
+}
+.blog7{
+	min-height: 200px;
+	background-color: #808000;
+	width: 16.6%;
+	float: right;
+	font-size: 50px
+
+}
+.blog8{
+	min-height: 200px;
+	background-color: #90ee90;
+	width: 16.6%;
+	float: right;
+	font-size: 50px
+	
+}
+.blog9{
+	min-height: 200px;
+	background-color: #fffdd0;
+	width: 16.7%;
+	float: right;
+	font-size: 50px
+	
+
+}
+.blog10{
+	min-height: 200px;
+	background-color: #00ffff;
+	width: 16.7%;
+	float: right;
+	font-size: 50px
+}
+.blog11{
+	min-height: 200px;
+	background-color: #e6e6fa;
+	width: 16.7%;
+	float: right;
+	font-size: 50px
+}
+.blog12{
+	min-height: 200px;
+	background-color:#da70d6;
+	width: 16.7%;
+	float: right;
+	font-size: 50px
+}
+
